@@ -1,0 +1,27 @@
+  {
+    
+  "criticalParameters": [
+    {
+    
+    "DateTime": "2025-05-26 17:49:49",
+    "ImpulseResistor": "Vishay",
+    "MOV": "Epcos",
+    "Ecap": "Chemicon",
+    "Magnet": "TI",
+    "EEPROM": "Rohm",
+    "Flash": "Winbond",
+    "Battery": "Ramway",
+    "NICModule": "Quectel",
+    "Supercapacitor": "Jhinghai",
+    "PCB": "CIPSA",
+    "Soldering": "SGS Syrma",
+    "LCD": "Golden Vision",
+    "Relay": "Tdconnex",
+    "TestJIG": "TJ001",
+    "Magnetics": "Mars",
+    "Regulator": "Diotec",
+    "MechanicalSet": "Padmavathi"
+    }
+  ]
+}
+  

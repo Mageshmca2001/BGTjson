@@ -1,0 +1,23 @@
+{
+    
+  "finalParameters": [
+    {
+    "OpticalPort": "Enabled",
+    "SerialNo": "SN123456789",
+    "MeterRTC": "2025-06-24 10:00:00",
+    "Voltage": 230.5,
+    "LineCurrent": 5.2,
+    "NeutralCurrent": 5.1,
+    "PushIP": "192.168.1.10",
+    "HardwareStatus": "17439",
+    "FirmwarevVersion": "1.2.3",
+    "MODEMVersion": "M-450X",
+    "IMEI": "356789042398174",
+    "ICCID": "8991234567890123456",
+    "IsDelete": 0,
+    "OverallStatus": "PASS"
+    }
+  ]
+
+}
+  
