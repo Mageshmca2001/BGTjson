@@ -1,0 +1,21 @@
+{
+  "NICTestJig": [
+    
+    {
+      "ID": "00000000-0000-0000-0000-000000000000",
+  "UserID": "00000000-0000-0000-0000-000000000000",
+  "TimeStamp": "2025-06-28T11:00:00",
+  "PCBSerialNumber": "PCB12345678",
+  "IMEI": "123456789012345",
+  "SIMIP": "192.168.1.100",
+  "ICCID": "89148000001234567890",
+  "FirmwareVersion": "v1.2.3",
+  "NICError": "No Error",
+  "RSSI": -75,
+  "PushStatus": "Success",
+  "DemandStatus": "Completed"
+
+    }
+  
+  ]
+}

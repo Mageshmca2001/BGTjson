@@ -28,6 +28,24 @@ app.get('/api/finalparameters', (req, res) => {
   res.sendFile(path.join(__dirname, 'Functionalparameter.json'));
 });
 
+app.get('/api/Calibration', (req, res) => {
+  res.sendFile(path.join(__dirname, 'Calibration.json'));
+});
+
+app.get('/api/NICTestJig', (req, res) => {
+  res.sendFile(path.join(__dirname, 'NICTestJig.json'));  
+});
+
+app.get('/api/AccuracyTest', (req, res) => {
+  res.sendFile(path.join(__dirname, 'AccuracyTest.json'));
+});
+
+app.get('/api/FinalTest', (req, res) => {
+  res.sendFile(path.join(__dirname, 'FinalTest.json'));
+});
+
+// ✅ Serve static files
+
 app.get('/', (req, res) => {
   res.send('Hello, World! SQL Server is running...');
 });

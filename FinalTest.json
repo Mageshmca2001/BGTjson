@@ -1,0 +1,20 @@
+{
+  "FinalTest": [
+    
+    {
+      "ID": "00000000-0000-0000-0000-000000000000",
+      "UserID": "00000000-0000-0000-0000-000000000000",
+      "Timestamp": "2025-06-28T11:00:00",
+    "CalibrationBenchID": "Bench-001",
+    "CalibrationStartTime": "2025-06-28T10:00:00",
+    "CalibrationEndTime": "2025-06-28T10:30:00",
+    "PCBSerialNumber": "PCB12345678",
+    "Line_BC_UPF": 0.99,
+    "Line_AC_UPF": 0.98,
+    "Neutral_BC_UPF": 0.97,
+    "Neutral_AC_UPF": 0.96
+
+    }
+  
+  ]
+}

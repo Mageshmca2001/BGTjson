@@ -1,0 +1,28 @@
+{
+  "AccuracyTest": [
+    
+    {
+     "ID": "00000000-0000-0000-0000-000000000000",
+  "UserID": "00000000-0000-0000-0000-000000000000",
+  "Timestamp": "2025-06-28T11:00:00",
+  "CalibrationBenchID": "Bench-001",
+  "PCBSerialNumber": "PCB12345678",
+  "AccuracyStartTime": "2025-06-28T11:10:00",
+  "AccuracyEndTime": "2025-06-28T11:30:00",
+  "Ib_100p_UPF": 1.00,
+  "Ib_100p_0_5_UPF": 0.99,
+  "Ib_100p_0_8_UPF": 0.98,
+  "Imax_UPF": 1.01,
+  "Imax_0_5_Lag": 0.97,
+  "Imax_0_8_LEAD": 0.96,
+  "Ib_10_UPF": 0.95,
+  "Ib_10_0_5_Lag": 0.94,
+  "Ib_10_0_8_LEAD": 0.93,
+  "Ib_5_UPF": 0.92,
+  "StartCurrentTest": 1,
+  "NoLoadCurrentTest": 0
+
+    }
+  
+  ]
+}
